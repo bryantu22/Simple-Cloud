@@ -1,6 +1,6 @@
 <?php
 function connectDb() {
-    $conn = mysqli_connect("localhost","bryantu22","Kappa123123","bryantu22_simplecloud");
+    $conn = mysqli_connect("localhost","user","pass","db_name");
     return $conn;
 }
 ?>
