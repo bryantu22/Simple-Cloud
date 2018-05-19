@@ -28,7 +28,7 @@ HTML5, CSS3, JavaScript, PHP, SQL
 > Download the repository as a zip
 > Extract the content of the zip into a folder
 > Install a webserver like Apache
-> Click the "Start" button in Apache, and start MySQL
+> Start your webserver and MySQL
 > browse "http://localhost" in your browser and path to the index.php file in your folder
 ```
 
