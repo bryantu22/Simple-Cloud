@@ -9,7 +9,7 @@ This platform is no longer being maintained
 
 HTML5, CSS3, JavaScript, PHP, SQL
 
-**Current features; Last Updated: April 16, 2018**
+**Current features; Last Updated: May 19, 2018**
 - Upload and download files from the cloud
 - Delete files and recover recently deleted files 
 - File size tracker and process upload bar
