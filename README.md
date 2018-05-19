@@ -22,7 +22,15 @@ HTML5, CSS3, JavaScript, PHP, SQL
   - Set up a payment system
   - Update Terms of Service
   
+**How to run it*
 
+```
+> Download the repository as a zip [here](https://github.com/bryantu22/Simple-Cloud/archive/master.zip)
+> Extract the content of the zip into a folder
+> Install a webserver like Apache
+> Click the "Start" button in Apache, and start MySQL
+> browse "http://localhost" in your browser and path to the index.php file in your folder
+```
 
 
 [Demo](https://simplecloud.us/)
