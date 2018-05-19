@@ -25,7 +25,7 @@ HTML5, CSS3, JavaScript, PHP, SQL
 **How to run it*
 
 ```
-> Download the repository as a zip [here](https://github.com/bryantu22/Simple-Cloud/archive/master.zip)
+> Download the repository as a zip
 > Extract the content of the zip into a folder
 > Install a webserver like Apache
 > Click the "Start" button in Apache, and start MySQL
