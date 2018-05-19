@@ -13,6 +13,7 @@ HTML5, CSS3, JavaScript, PHP, SQL
 - Upload and download files from the cloud
 - Delete files and recover recently deleted files 
 - File size tracker and process upload bar
+- Unique encryption and share key for each file
 - Login system
 - SSL to secure transmitted data through [Cloudflare](https://www.cloudflare.com/)
 
