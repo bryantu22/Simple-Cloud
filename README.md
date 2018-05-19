@@ -22,7 +22,7 @@ HTML5, CSS3, JavaScript, PHP, SQL
   - Set up a payment system
   - Update Terms of Service
   
-**How to run it*
+**How to run it**
 
 ```
 > Download the repository as a zip
