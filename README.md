@@ -1,8 +1,5 @@
 # Simple Cloud 
 
-
-Reached 5.4k unique users, 700+ cities, and 20 countries in May 2018
-
 Developed a cloud storage platform that allows users to store files, synchronize files across devices, and share files
 
 
